@@ -31,4 +31,5 @@ while quarters > 0:
     machine = machine + 1 
     quarters = quarters - 1
 
-print('Martha plays ' + str(slot_time) + ' times before going broke.')
+# print('Martha plays ' + str(slot_time) + ' times before going broke.')
+print(f'Martha plays {slot_time} times before going broke.')
