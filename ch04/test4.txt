@@ -1,6 +1,0 @@
-neighbor
-door
-instructor
-transpor
-floor 
-quit!

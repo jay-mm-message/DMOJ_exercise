@@ -1,3 +1,0 @@
-neighbor
-colour
-quit!
